@@ -1,29 +1,25 @@
 
-## Sourabh Sharma
+## Er. Kuljit Kaur
 
-### Cyber Security Expert
+### Computer Science and Engineering
 
-![Display picture](Photos/SS.png)
+![Display picture](Photos/IMG_5493.JPG)
 
 ## Qualification
 
 1. Matric 
 2. 10+2
-3. B.Sc
-4. M.Sc
-5. Ph.D.
-6. Numbered list
+3. Btech
+4. Mtech
 
 | Sr. No. | Item        | Description     |
 | ------- | ----------- | --------------- |
-| 1       | DoB         | 31/12/1986    |
-| 2       | Designation | Professor       |
-| 3       | Email       | foo@gndec.ac.in |
-| 4       | Experience  | 9 years         |
+| 1       | DoB         | 23/08/1992    |
+| 2       | Designation |Assistant Professor       |
+| 3       | Email       | kuljit@gndec.ac.in |
+| 4       | Experience  | 5 years         |
 
 ## Hobbies
 
 - Reading
 - Travelling
-- Hacking
-- Bulleted list
